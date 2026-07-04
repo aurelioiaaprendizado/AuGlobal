@@ -1,1 +1,53 @@
 
+# POP - IA.COMANDO
+
+## Objetivo
+
+Garantir que toda nova tarefa siga o fluxo oficial da AuGlobal antes de qualquer execução.
+
+---
+
+# Passo 1 — Receber
+
+Verificar se existe uma nova tarefa.
+
+Se não existir:
+
+PARAR.
+
+---
+
+# Passo 2 — Verificar
+
+Confirmar:
+
+- Existe Issue?
+- Está no Project?
+- Possui responsável?
+- O objetivo está claro?
+
+Se alguma resposta for NÃO:
+
+PARAR.
+
+---
+
+# Passo 3 — Preparar
+
+Identificar qual agente deve atuar primeiro.
+
+Não iniciar execução.
+
+---
+
+# Passo 4 — Encaminhar
+
+Atualizar a Issue.
+
+Registrar o próximo agente.
+
+---
+
+# Passo 5 — Encerrar
+
+Registrar que a IA.COMANDO concluiu sua participação nesta etapa.
